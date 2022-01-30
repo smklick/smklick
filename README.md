@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/sarahklick?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsarahklick&screen_name=sarahklick)
 
-## I'm a Mom, Developer, and a life-long learner!
+## 
 <!-- - 🔭 I’m currently working on ... -->
 🌱 I’m currently learning about Cypress and VueJS 
 <!-- - 👯 I’m looking to collaborate on ... -->
