@@ -1,4 +1,6 @@
-### Hi there, I'm Sarah 👋
+<p>
+<h1 align="center">Hi there, I'm Sarah 👋</h1>
+</p>
 
 <!--
 **smklick/smklick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,9 +8,12 @@
 Here are some ideas to get you started:
 -->
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/sarahklick?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsarahklick&screen_name=sarahklick)
 
+<p align="center>
+  <a href="https://twitter.com/sarahklick"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+</p>
 
+<!-- 
 <table width="100%"> 
   <tr>
   <td width="50%">
@@ -16,11 +21,11 @@ Here are some ideas to get you started:
 &nbsp; <br> [![Spotify](https://novatorem-455u23n64-smklick.vercel.app/api/spotify?background_color=8b0000&border_color=ffffff)](https://open.spotify.com/user/sklick)
 
   </td>
-</table>
+</table> -->
 
-## 
+
 <!-- - 🔭 I’m currently working on ... -->
-🌱 I’m currently learning about Cypress and VueJS 
+<!-- -🌱 I’m currently learning about Cypress and VueJS -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
@@ -29,9 +34,11 @@ Here are some ideas to get you started:
 <!-- ⚡ Fun fact: -->
 
 
----
 
-🧰 Toolbox
+
+<p>
+  <h2 align="center">🧰 Toolbox</h2>
+</p>
 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -54,10 +61,11 @@ Here are some ideas to get you started:
 <br />
 <br />
 
----
 
-## &#x1f4c8; My GitHub Stats
 
+<p>
+  <h2 align="center"> &#x1f4c8; My GitHub Stats </h2>
+</p>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smklick&hide=java,html,css&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
